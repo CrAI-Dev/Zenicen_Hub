@@ -19,7 +19,10 @@ wait(3)
 msg:Remove()
 local Hub = {
      [1828509885] = {
-     [1] = "https://raw.githubusercontent.com/CrAI-Dev/Zenicen_Hub/main/Egg%20Farm%20Simulator.lua",
+          [1] = "https://raw.githubusercontent.com/CrAI-Dev/Zenicen_Hub/main/Egg%20Farm%20Simulator.lua",
+   },
+     [4954752502] = {
+          [1] = "https://github.com/CrAI-Dev/Zenicen_Hub/blob/main/Tower%20of%20Misery.lua",
    }
 }
 
